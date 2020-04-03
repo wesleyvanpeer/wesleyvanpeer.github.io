@@ -6,6 +6,7 @@
 /* =================================== */
 /*  Basic Style 
 /* =================================== */
+
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #8460f6;
@@ -2283,6 +2284,11 @@ nav a:hover {
   margin-top: 10px;
   font-weight: 300;
   margin-bottom: 20px;
+}
+
+#html-funda {
+padding: 10px;
+
 }
 
 .projects-area {
